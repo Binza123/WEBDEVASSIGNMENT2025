@@ -8,7 +8,7 @@ This project is build with HTML, CSS and 'vanilla' Javascript only.
 
 Repo located at:
 
-https://github.com/YOUR-GITHUB-NAME/YOUR-REPO-NAME
+(https://github.com/Binza123/WEBDEVASSIGNMENT2025.git)
 
 If the repo is **private** ensure you add `mustbebuilt` and `tonderaiMaswera` as [contributors](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository).
 
@@ -32,3 +32,4 @@ Please ensure you complete the AI Tranparency Statement and include it in the ab
 The `website_code` folder should hold only the files **used** in your project.
 
 Please do not re-submit the `website-images-assets` and `web-site-text-and-data`. We don't want them back! Returning unused files may lose you marks.
+
